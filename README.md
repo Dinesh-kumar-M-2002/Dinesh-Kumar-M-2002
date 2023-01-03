@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deenukuber333@gmail.com**
 
-- 📄 Know about me [https://dinesh-kumar-m-2002.github.io/Responsive-portfolio/](https://dinesh-kumar-m-2002.github.io/Responsive-portfolio/)
+- 📄 Know about me https://dinesh-kumar-m-portfolio.netlify.app
 
 
 
