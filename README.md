@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dinesh Kumar M</h1>
 <h3 align="center">A passionate student from India</h3>
 
@@ -15,7 +16,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dinesh-kumar-m-2002&theme=default&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dinesh-kumar-m-2002&theme=default&hide_border=false)<br/> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-kumar-m-2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-kumar-m-2002&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-kumar-m-2002&show_icons=true&locale=en&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-kumar-m-2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
