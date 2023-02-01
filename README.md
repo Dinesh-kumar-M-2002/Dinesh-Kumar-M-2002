@@ -23,12 +23,19 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=dinesh-kumar-m-2002&theme=default&hide_border=false)<br/> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-kumar-m-2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-kumar-m-2002&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-kumar-m-2002&show_icons=true&locale=en&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-kumar-m-2002&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-kumar-m-2002&show_icons=true&locale=en&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-kumar-m-2002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dinesh-kumar-m-2002" /></p>
-
+ -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![](gitartwork.svg)
+<!--![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
+<!-- -- ![Snake animation](https://github.com/alex1232115/alex1232115/blob/output/github-snake.svg) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinesh-kumar-m-2002&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinesh-kumar-m-2002&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinesh-kumar-m-2002&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinesh-kumar-m-2002&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinesh-kumar-m-2002&theme=tokyonight)
 
 
 
